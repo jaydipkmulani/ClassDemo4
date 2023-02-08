@@ -6,4 +6,5 @@
     <string name="rBtnPoundToKg">Convert Pound to Kilograms</string>
     <string name="rBtnKgToPoundValue">Convert Kilogram to Pounds</string>
     <string name="btnConvertWeightValue">CONVERT WEIGHT</string>
+    <string name="NewTitle">Button Tittle Updated</string>
 </resources>
